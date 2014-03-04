@@ -1,6 +1,6 @@
 <?php 
 /*
-Plugin Name: Simple Related Posts
+Plugin Name: WP Simple Related Posts
 Plugin URI: http://www.kakunin-pl.us/
 Description: Display Related Posts. Very Simple.
 Author: horike takahiro
